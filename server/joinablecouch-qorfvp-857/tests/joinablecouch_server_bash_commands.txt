@@ -1,0 +1,8 @@
+
+// Typical server call
+curl -X POST -H "X-Parse-Application-Id: qoRFVPfwEj0lMDLO1SqdfeMlU5nniXGYu8DVgl2I" -H "X-Parse-REST-API-Key: l98k9sNnKdtijCXxqobtsRY9W2g1bWxmCLo0z46Z" -H "Content-Type: application/json" -d '{"video_id": "QcIy9NiNbmo"}' https://api.parse.com/1/functions/getPlaybackUrl_v1
+
+video_id	String?	"QcIy9NiNbmo"	Some
+
+// Delete webhook (in case shit gets into weird state
+curl -X PUT   -H "X-Parse-Application-Id: qoRFVPfwEj0lMDLO1SqdfeMlU5nniXGYu8DVgl2I"   -H "X-Parse-Master-Key: RPuvHpg499p0TxtXEphl8InHtoIHFDiM7oHJsVzu"   -H "Content-Type: application/json"   -d '{ "__op": "Delete" }' https://api.parse.com/1/hooks/functions/search_v1

@@ -1,0 +1,11 @@
+{
+  "applications": {
+    "_default": {
+      "link": "joinablecouch"
+    },
+    "joinablecouch": {
+      "parseAppId": "qoRFVPfwEj0lMDLO1SqdfeMlU5nniXGYu8DVgl2I",
+      "herokuAppId": "87d04171-4fc6-4c65-b4d1-0b04cf477810"
+    }
+  }
+}

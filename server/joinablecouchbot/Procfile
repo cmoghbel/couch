@@ -1,0 +1,2 @@
+web: node index.js
+bot: node edm_bot.js

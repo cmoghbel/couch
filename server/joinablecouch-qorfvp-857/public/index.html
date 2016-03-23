@@ -1,0 +1,50 @@
+<html>
+<body>
+<script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+<script>
+  var socket = io();
+  console.log(socket)
+//  socket.connect("https://joinablecouch-qorfvp-857.herokuapp.com/")
+  
+
+
+$(document).ready(function() {
+  $('#changeVideo').click(function() {
+    socket.emit('start_video', {"channel_id":$('#channelId').val(), "video_id":$('#newVideo').val()});
+  	});
+  $('#seekButton').click(function() {
+  	var params = {"channel_id":$('#channelId').val(), "seconds":$('#seconds').val()};
+  	console.log(params);
+    socket.emit('seek', params);
+  	});
+  $('#messageButton').click(function() {
+  	var params = {"channel_id":$('#channelId').val(), "message":$('#message').val()};
+    socket.emit('chat_message', params);
+  	});
+  })
+
+</script>
+
+Channel Id<br>
+<textarea id="channelId">channel1</textarea><br>
+<br>
+
+Change Video<br>
+<textarea id="newVideo">-jWreYcKSgY</textarea><br>
+<button id="changeVideo">Change Video</button>
+
+<br><br>
+
+Seek<br>
+<textarea id="seconds">60</textarea><br>
+<button id="seekButton">Seek Video</button>
+
+<br><br>
+
+Message<br>
+<textarea id="message">Hello world</textarea><br>
+<button id="messageButton">Send Message</button>
+
+</body>
+</html>

@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log",
+				"logConnectedUsers"
+			],
+			[
+				"video",
+				"video_id"
+			],
+			[
+				"chan",
+				"channel"
+			],
+			[
+				"chann",
+				"channel_id"
+			],
+			[
+				"channel",
+				"channel"
+			],
+			[
+				"ch",
+				"channel"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"reu",
+				"request"
+			],
+			[
+				"cha",
+				"channel_name"
+			],
+			[
+				"vi",
+				"video_id"
+			],
+			[
+				"youtube",
+				"youtube_video_url_prefix"
+			],
+			[
+				"yout",
+				"youtube_video_url_prefix"
+			],
+			[
+				"query",
+				"query_type"
+			],
+			[
+				"thu",
+				"thumbnails"
+			],
+			[
+				"sear",
+				"search_results"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"find",
+				"findOutButton"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"facb",
+				"facebookLogin"
+			],
+			[
+				"res",
+				"resolve"
+			],
+			[
+				"or",
+				"orderBy"
+			],
+			[
+				"percent",
+				"percentOnFleek"
+			],
+			[
+				"fr",
+				"friend"
+			],
+			[
+				"friends",
+				"friends"
+			],
+			[
+				"per",
+				"percentOnFleek"
+			],
+			[
+				"url",
+				"urlToPercent"
+			],
+			[
+				"save",
+				"saveFleekInfo"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"fri",
+				"friends"
+			],
+			[
+				"frien",
+				"friendFBIDs"
+			],
+			[
+				"ad",
+				"append"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"fle",
+				"fleekInfo"
+			],
+			[
+				"cur",
+				"current"
+			],
+			[
+				"fet",
+				"fetchInfo"
+			],
+			[
+				"fl",
+				"fleekInfo"
+			],
+			[
+				"fleekIn",
+				"fleekInfoForCurrentUser"
+			],
+			[
+				"flek",
+				"fleekInfo"
+			],
+			[
+				"FAc",
+				"FacebookUtils"
+			],
+			[
+				"fleek",
+				"fleekInfo"
+			],
+			[
+				"Fleek",
+				"FleekInfo"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"acces",
+				"accessToken"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"dataURI",
+				"dataURI"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"to",
+				"toDataURL"
+			],
+			[
+				"login",
+				"loginButton"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/server/joinablecouch-qorfvp-857/server.js",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/server/joinablecouch.sublime-workspace",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/server/joinablecouch.sublime-project",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch.sublime-project",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch.sublime-workspace",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch/package.json",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch/server.js",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/socket_test_client.js",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch-qorfvp-857/tests/socket_echo_client.js",
+		"/Users/cmoghbel/Dropbox (Personal)/joinablecouch/joinablecouch/cloud/main.js",
+		"/Users/cmoghbel/goog.js",
+		"/Users/cmoghbel/scraper.js",
+		"/Users/cmoghbel/Dropbox (Facebook)/Downloads/facebook-cmoghbel/html/ads.htm",
+		"/Users/cmoghbel/Dropbox (Personal)/AreYouOnFleek/public/image.js",
+		"/Users/cmoghbel/test.js",
+		"/Users/cmoghbel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cmoghbel/var api_key = 'SEM3xxxxxxxxxxxxxxxxxxxxxx';.js",
+		"/Users/cmoghbel/Dropbox (Personal)/HiForMessengerWebsite/public/index.html",
+		"/Users/cmoghbel/Dropbox (Personal)/HiForMessengerWebsite/public/style.css",
+		"/Users/cmoghbel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/devrs047.prn2.facebook.com/www/README.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[ERROR]:",
+			"[LOG]:",
+			"[LOG]",
+			"saveFleekInfo",
+			"showImgInCanvas",
+			"urlToPercent",
+			"TODO",
+			"Yolk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[ERROR]",
+			"[LOG]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true
+}
